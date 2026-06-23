@@ -1,0 +1,9 @@
+#!/bin/bash
+#muestra un 67 en ascii creo q era
+echo ' ███  █████ 
+█         █ 
+████     █  
+█   █   █   
+ ███   █    '
+#hace que suene el sonido de 67 y el -q para q no se vea el progreso del audio y no se vea sucio
+play /usr/local/share/sound-67/67.mp3 -q
