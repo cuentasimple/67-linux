@@ -31,7 +31,7 @@ sudo apt install sox
 Clona el repositorio:
 
 ```bash
-https://github.com/cuentasimple/67-linux
+git clone https://github.com/cuentasimple/67-linux
 ```
 
 Entra a la carpeta:
