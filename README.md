@@ -4,7 +4,7 @@ Mi primer proyecto para Linux publicado en GitHub.
 
 (solo para linux)
 
-solo escribe 67 en tu terminal y va a sonar ehhhh e six seveeeeen y un dibujito de ascii
+solo escribe 67 en tu terminal y va a sonar ehhhh e six seveeeeen y un dibujito de ascii y asi
 
 aclaro q el readme lo hizo mitad chatgpt mitad yo
 
@@ -19,7 +19,10 @@ Esto utiliza `sox`.
 ```bash
 sudo pacman -S sox
 ```
-
+### Void linux
+```bash
+sudo xbps-install -S sox
+```
 ### Debian / Ubuntu
 
 ```bash
